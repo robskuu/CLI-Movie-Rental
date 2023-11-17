@@ -10,7 +10,7 @@ CLI Movie Rental is a user-friendly command-line application developed as a scho
 - **Data Storage:** All data, including rented movies, is securely stored in JSON files on your local machine, ensuring easy and uncomplicated management.
 
 ## Getting Started
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone https://github.com/robskuu/CLI-Movie-Rental.git`
 2. Navigate to the project directory: `cd CLI-Movie-Rental`
 3. Run the application: `python main.py`
 
