@@ -1,0 +1,14 @@
+[
+    {
+        "name": "UserOne",
+        "phone": "523-745-4632",
+        "id": 1,
+        "rented_movies": ["Breaking Bad"]
+    },
+    {
+        "name": "UserTwo",
+        "phone": "000-122-7383",
+        "id": 2,
+        "rented_movies": []
+    }
+]
