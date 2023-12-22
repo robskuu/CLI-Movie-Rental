@@ -32,8 +32,8 @@ Example:
 2. Rent a film
 3. Return a film
 4. Show rented films
-5. Add/remove films
-6. Create/remove films
+5. Add/remove film
+6. Create/remove users
 7. Quit
 Enter the number of your choice: 3
 Choose an option: 1
